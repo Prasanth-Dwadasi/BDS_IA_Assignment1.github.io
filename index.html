@@ -27,8 +27,8 @@
                   environment="web"
                   feedback-link="">
     
-      <google-codelab-step label="CSYE Big Data and Analytics" duration="0">
-        <h2 is-upgraded>Assignment1: Storm EVent ImageRy (SEVIR) Data Pipelining</h2>
+      <google-codelab-step label="DAMG Big Data and Analytics" duration="0">
+        <h2 is-upgraded>Assignment1: Storm EVent ImageRy (SEVIR) Data Analysis and  Visualization</h2>
 <p>Team Information:</p>
 <table>
 <tr><td colspan="1" rowspan="1"><p><strong>Name</strong></p>
@@ -55,14 +55,14 @@
 <p class="image-container"><img style="width: 329.50px" src="img/ca659679e4d90f25.png"></p>
 <h2 is-upgraded>GCP</h2>
 <p>Implemented a data pipeline using different Google Cloud Platform components like Cloud Storage, Big Query and Data Studio.</p>
-<p class="image-container"><img style="width: 319.85px" src="img/6ac8f8305ea1802e.png"></p>
+<p class="image-container"><img style="width: 306.50px" src="img/b149e6864c3845ab.png"><img style="width: 299.50px" src="img/4a819acf6abf96dc.png"></p>
 
 
       </google-codelab-step>
     
       <google-codelab-step label="Dataset" duration="0">
         <p>Storm EVent ImageRy (SEVIR) is a collection of temporally and spatially aligned image sequences depicting weather events captured over the contiguous US (CONUS) by GOES-16 satellite and the mosaic of NEXRAD radars. Figure 1 shows a set of frames taken from a SEVIR event. SEVIR contains five image types: GOES-16 0.6 µm visible satellite channel (vis), 6.9 µm and 10.7 µm infrared channels (ir069, ir107), a radar mosaic of vertically integrated liquid (vil), and total lightning flashes collected by the GOES-16 geostationary lightning mapper (GLM) (lght). See Table 1 for details. Each event in SEVIR consists of a 4-hour length sequence of images sampled in 5 minute steps. The lightning modality is the only non-image type, and is represented by a collection of GLM lightning flashes captured in the 4 hour time window. SEVIR events cover 384 km x 384 km patches sampled at locations throughout the continental U.S. (CONUS). The pixel resolution in the images differ by image type, and were chosen to closely match the resolution of the original data. Since the patch dimension of 384 km is constant across sensors, the size of each image differs (as shown in Table 1)<img style="width: 624.00px" src="img/4ecab9936fe2b5f0.png"></p>
-<h2 is-upgraded>Data Sampling in our project:</h2>
+<p>Data Sampling in our project:</p>
 <p>1. SEVIR: We have used CATALOG.csv which is the metadata for SEVIR image data</p>
 <p>2. NOAA Storm Events: Since the data for year  2019 is available for all the image types, we have also utilized NOAA Storm Event data for the year 2019 which consists of the following raw files:</p>
 <ul>
@@ -76,6 +76,7 @@
       <google-codelab-step label="Jupyter Notebook" duration="0">
         <p>Performed the SEVIR tutorial on Event ID 835047.</p>
 <p>Below are some snapshots of the the jupyter notebook</p>
+<p><a href="https://github.com/Prasanth-Dwadasi/Prasanth-Dwadasi.github.io/blob/main/Assignment1/sevir_analysis.ipynb" target="_blank">https://github.com/Prasanth-Dwadasi/Prasanth-Dwadasi.github.io/blob/main/Assignment1/sevir_analysis.ipynb</a></p>
 <ol type="1" start="1">
 <li>Fetching the files related to the Event Id 83507</li>
 </ol>
@@ -103,7 +104,8 @@
       </google-codelab-step>
     
       <google-codelab-step label="Dashboard" duration="0">
-        <p>Below are some visualization done using Datastudio and created the dashboard.</p>
+        <p>Below are some visualization and Dashboards created using Data Studio</p>
+<p><a href="https://datastudio.google.com/s/gVtxNpDv0xQ" target="_blank">https://datastudio.google.com/s/gVtxNpDv0xQ</a></p>
 <p class="image-container"><img style="width: 624.00px" src="img/f6bde7ab4cc32423.png"></p>
 <p class="image-container"><img style="width: 624.00px" src="img/52eea89a390f6219.png"></p>
 <p class="image-container"><img style="width: 624.00px" src="img/c43cacb6b557093a.png"></p>

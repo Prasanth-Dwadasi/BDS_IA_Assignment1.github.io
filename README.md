@@ -7,6 +7,7 @@ This repository contains data, lab work and assignments which covers:
 * Key data engineering tools and techniques that are used in the industry to build, scale and serve robust data & big data applications 
 * Components required to build reproducible and robust data engineering pipelines
 
+codelab link : https://codelabs-preview.appspot.com/?file_id=1TIDhjHajwcGXLynJNdVZgMpXsM6xOXFIBCoKj67hev4#0
 
 ## Course Information
 * Course Title: **Big-Data Systems and Intelligence Analytics**
