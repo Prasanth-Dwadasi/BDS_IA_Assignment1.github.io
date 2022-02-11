@@ -1,0 +1,4 @@
+# local package
+boto3
+python
+h5py

@@ -7,6 +7,7 @@ This repository contains data, lab work and assignments which covers:
 * Key data engineering tools and techniques that are used in the industry to build, scale and serve robust data & big data applications 
 * Components required to build reproducible and robust data engineering pipelines
 
+Assignent1:
 codelab link : https://codelabs-preview.appspot.com/?file_id=1TIDhjHajwcGXLynJNdVZgMpXsM6xOXFIBCoKj67hev4#0
 
 ## Course Information
@@ -21,10 +22,8 @@ codelab link : https://codelabs-preview.appspot.com/?file_id=1TIDhjHajwcGXLynJNd
 ## Team Information
 
 | NAME              |     NUID        |
-|------------------ |-----------------|
+|-------------------|-----------------|
 | Sudarshan Waydande|   001563532     |
 | Divyanshu Bhardwaj|   002181815     |
 | Prasanth Dwadasi  |   002115654     |
 
-
-## Every Assigment/Lab/Project has it's own ReadMe for detailed explanation.
