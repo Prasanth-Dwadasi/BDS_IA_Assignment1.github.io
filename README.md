@@ -17,6 +17,10 @@ codelab link : https://codelabs-preview.appspot.com/?file_id=16aRMFUkgOyrIq6Ipsf
 Assignent3:
 codelab link : https://codelabs-preview.appspot.com/?file_id=1eErid7QeRcRuohRS50fjvpI6gl-8ZZr8T7fAYDQ4HQg#0
 
+Assignent4:
+codelab link : https://codelabs-preview.appspot.com/?file_id=1OMGnd1EJ6SMUUO3ImAsbepHS31DDMsP7-4PS8iKmjSE#0
+
+
 ## Course Information
 * Course Title: **Big-Data Systems and Intelligence Analytics**
 * Course Number: **DAMG7245**
